@@ -1,1 +1,1 @@
-feature3 line I want conflict
+feature3 line I want the merge conflict
